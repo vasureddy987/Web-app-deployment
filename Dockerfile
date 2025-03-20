@@ -20,3 +20,4 @@ EXPOSE 80
 
 # Start Apache when the container runs
 CMD /root/run_apache.sh
+ 
